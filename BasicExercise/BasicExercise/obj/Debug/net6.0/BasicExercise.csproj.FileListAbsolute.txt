@@ -1,0 +1,14 @@
+D:\Tutorials\c#\BasicExercise\BasicExercise\bin\Debug\net6.0\BasicExercise.exe
+D:\Tutorials\c#\BasicExercise\BasicExercise\bin\Debug\net6.0\BasicExercise.deps.json
+D:\Tutorials\c#\BasicExercise\BasicExercise\bin\Debug\net6.0\BasicExercise.runtimeconfig.json
+D:\Tutorials\c#\BasicExercise\BasicExercise\bin\Debug\net6.0\BasicExercise.dll
+D:\Tutorials\c#\BasicExercise\BasicExercise\bin\Debug\net6.0\BasicExercise.pdb
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.AssemblyInfoInputs.cache
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.AssemblyInfo.cs
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.csproj.CoreCompileInputs.cache
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.dll
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\refint\BasicExercise.dll
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.pdb
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\BasicExercise.genruntimeconfig.cache
+D:\Tutorials\c#\BasicExercise\BasicExercise\obj\Debug\net6.0\ref\BasicExercise.dll
