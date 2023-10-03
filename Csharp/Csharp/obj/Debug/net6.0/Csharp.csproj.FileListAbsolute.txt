@@ -1,0 +1,14 @@
+D:\Tutorials\c#\Csharp\Csharp\bin\Debug\net6.0\Csharp.exe
+D:\Tutorials\c#\Csharp\Csharp\bin\Debug\net6.0\Csharp.deps.json
+D:\Tutorials\c#\Csharp\Csharp\bin\Debug\net6.0\Csharp.runtimeconfig.json
+D:\Tutorials\c#\Csharp\Csharp\bin\Debug\net6.0\Csharp.dll
+D:\Tutorials\c#\Csharp\Csharp\bin\Debug\net6.0\Csharp.pdb
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfoInputs.cache
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfo.cs
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.csproj.CoreCompileInputs.cache
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.dll
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\refint\Csharp.dll
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.pdb
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\Csharp.genruntimeconfig.cache
+D:\Tutorials\c#\Csharp\Csharp\obj\Debug\net6.0\ref\Csharp.dll
