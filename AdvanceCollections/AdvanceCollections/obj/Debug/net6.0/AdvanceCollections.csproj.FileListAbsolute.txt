@@ -1,0 +1,14 @@
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.AssemblyInfoInputs.cache
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.AssemblyInfo.cs
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.csproj.CoreCompileInputs.cache
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\bin\Debug\net6.0\AdvanceCollections.exe
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\bin\Debug\net6.0\AdvanceCollections.deps.json
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\bin\Debug\net6.0\AdvanceCollections.runtimeconfig.json
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\bin\Debug\net6.0\AdvanceCollections.dll
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\bin\Debug\net6.0\AdvanceCollections.pdb
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.dll
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\refint\AdvanceCollections.dll
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.pdb
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\AdvanceCollections.genruntimeconfig.cache
+D:\Tutorials\c#\AdvanceCollections\AdvanceCollections\obj\Debug\net6.0\ref\AdvanceCollections.dll
